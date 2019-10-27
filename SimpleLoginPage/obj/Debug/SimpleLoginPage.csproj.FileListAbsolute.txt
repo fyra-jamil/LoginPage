@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.Form1.resources
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.Properties.Resources.resources
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\bin\Debug\SimpleLoginPage.exe.config
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\bin\Debug\SimpleLoginPage.exe
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\bin\Debug\SimpleLoginPage.pdb
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.exe
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.pdb
+C:\Users\ASUS\source\repos\SimpleLoginPage\SimpleLoginPage\obj\Debug\SimpleLoginPage.Form2.resources
